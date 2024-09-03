@@ -62,7 +62,7 @@ Reputer (for reputation requests) node:
 
 ```
 ./allora-node \
-  --role=worker  \
+  --role=reputer  \
   --peer-db=/data/peerdb \
   --function-db=/data/function-db \
   --runtime-path=/app/runtime \
